@@ -69,4 +69,5 @@ The scraper will handle:
 - Error recovery and skipping failed URLs
 - Structured data export to CSV
 
-Remember to use this scraper responsibly and in
+
+Remember to use this scraper responsibly and in compliance with the target website's terms of service.
