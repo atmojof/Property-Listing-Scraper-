@@ -2,6 +2,8 @@
 
 A Selenium-based web scraper for extracting property listings from Rumah123.com
 
+![alt text](https://github.com/atmojof/Property-Listing-Scraper-/blob/main/227559_293656.jpg) 
+
 ## Features
 - Scrape data from single or multiple URLs
 - Automatic pagination handling
